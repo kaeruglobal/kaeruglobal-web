@@ -1,0 +1,27 @@
+{
+    "name": "ai-startups",
+    "private": "true",
+    "version": "3.2.0",
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+        "start": "next start"
+    },
+    "author": "EnvyTheme.com",
+    "license": "ISC",
+    "dependencies": {
+        "aos": "^2.3.4",
+        "axios": "^1.6.8",
+        "next": "^14.2.3",
+        "nodemailer": "^6.9.13",
+        "nodemailer-sendgrid-transport": "^0.2.0",
+        "react": "^18.3.1",
+        "react-accessible-accordion": "^5.0.0",
+        "react-dom": "^18.3.1",
+        "react-tabs": "^6.0.2",
+        "sass": "^1.77.1",
+        "sweetalert2": "^11.11.0",
+        "sweetalert2-react-content": "^5.0.7",
+        "swiper": "^11.1.1"
+    }
+}
