@@ -16,7 +16,7 @@ const Banner = () => {
                       data-aos-delay="100"
                       data-aos-duration="1200"
                     >
-                      Artificial Intelligence (AI)
+                      かえる合同会社 | Kaeru LLC
                     </span>
                     <h1
                       data-aos="fade-up"
