@@ -23,17 +23,14 @@ const Banner = () => {
                       data-aos-delay="200"
                       data-aos-duration="1200"
                     >
-                      Work smarter, together.
+                      AIによる予防医療で健康を守る。
                     </h1>
                     <p
                       data-aos="fade-up"
                       data-aos-delay="300"
                       data-aos-duration="1200"
                     >
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Quis ipsum suspendisse ultrices gravida. Risus
-                      commodo viverra maecenas accumsan lacus vel facilisis.
+                      歩行データをAIで分析し、フレイル（加齢による衰え）を早期に発見。私たちは、より健康な未来を支援します。
                     </p>
 
                     <Link
